@@ -47,6 +47,7 @@ serial_prefix = {
     84: Device(None, "TCube Strain Gauge", ""),
     87: Device(None, "TCube TEC", ""),
     24: Device(None, "Vertical Stage", ""),
+    38: Device(None, "Fiber Polarization Controller", "")
 }
 
 motor_encoder_lib = {
